@@ -1,22 +1,31 @@
 ### Hi there 👋 I'm [Sanjay](https://twitter.com/SanjayDevTech)
 
-
-#### I'm 19 year old Android / Web Developer. Currently doing my BE in Computer Engineering
-
-#### Living in India
-
-[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayDevTech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://twitter.com/SanjayDevTech">
+  <img align="left" alt="SanjayDevTech Twitter" src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/twitter-circled.svg" width="30px">
+</a>
+<a href="">
+  <img align="left" alt="Sanjay Developer YouTube Channel" src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/play-button.svg" width="30px">
+</a>
+<br clear="all"/>
+<h5>
+I'm a 19 year old Android and Web Developer. Currently doing my BE in Computer Engineering.<br/><br/>
+Proud to be an Indian .
+</h5>
 
 - 🌱 Currently learning how to develop mobile apps for Android.
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
-- 👌 Can develop in HTML / CSS / Java
+- 👌 Love to develop in **HTML** / **PHP** / **Java**
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
-- 💬 Ask me about anything.
-- 😄 Pronouns: Obsessed with learning and developing something new.
-- ⚡ Fun fact: Won't program without music
-- 📫 How to reach me: Please use the links below.
 
+<a href="https://github.com/SanjayDevTech/">
+  <img alt="Sanjay's github stats" src="https://github-readme-stats.vercel.app/api?username=SanjayDevTech&include_all_commits=true&show_icons=true&theme=nightowl" />
+</a><br/>
 
-## Contact me:
-| [![Twitter](https://img.icons8.com/metro/30/000000/twitter.png)](https://twitter.com/SanjayDevTech) | [![YouTube](https://img.icons8.com/metro/30/000000/youtube.png)](https://youtube.com/SanjayDeveloper) | [![LinkedIn](https://img.icons8.com/metro/30/000000/linkedin.png)](https://linkedin.com/in/SanjayDevTech) |
+### Languages and Tools
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="40px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40px">
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="40px">
+<br/><br/><br/><br/>
+Note:
+<code>
+Programming is 10% writing code and 90% understanding why it's not working.</code>

@@ -1,10 +1,13 @@
 ### Hi there 👋 I'm [Sanjay](https://twitter.com/SanjayDevTech)
 
+<a title="Dev" href="https://dev.to/sanjaydevtech">
+  <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sanjay Developer's DEV Profile" height="30" width="30">
+</a>
 <a title="Twitter" href="https://twitter.com/SanjayDevTech">
-  <img align="left" alt="SanjayDevTech Twitter" src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/twitter-circled.svg" width="30px">
+  <img align="left" alt="SanjayDevTech Twitter" src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/twitter-circled.svg" height="30" width="30">
 </a>
 <a title="YouTube Channel" href="https://www.youtube.com/SanjayDeveloper">
-  <img align="left" alt="Sanjay Developer YouTube Channel" src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/play-button.svg" width="30px">
+  <img align="left" alt="Sanjay Developer YouTube Channel" src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/play-button.svg" height="30" width="30">
 </a>
 <br clear="all"/>
 <h4>

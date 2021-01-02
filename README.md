@@ -32,5 +32,5 @@
 
 ## 🌐 **Reach out to me:** ️
 
-<img src="https://img.shields.io/badge/LinkedIn-SanjayDevTech-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
-<img src="https://img.shields.io/badge/Twitter-@SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjayDevTech-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5")](https://www.linkedin.com/in/sanjaydevtech)
+[![Twitter](https://img.shields.io/badge/Twitter-@SanjayDevTech-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2")](https://www.twitter.com/SanjayDevTech)

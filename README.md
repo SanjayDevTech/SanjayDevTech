@@ -9,10 +9,20 @@
 - 🤓 Currently pursuing BE CSE;
 - 🧑‍💻 Android && Web developer;
 - 👽 Love to develop in **Android** || **React** || **Node**;
-- 📹 Youtuber [Sanjay Developer](https://www.youtube.com/c/SanjayDeveloper20)
+- 📹 Youtuber [Sanjay Developer](https://www.youtube.com/c/SanjayDeveloper20);
 - 🤝 Maintaining few open source libraries;
 
 <br/>
+
+---
+
+## 😄 **Profile Visits:**
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=SanjayDevTech&style=flat-square)
+
+<br />
 
 ---
 
@@ -70,9 +80,7 @@
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40"  />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40"  />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40"  />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40"  />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="40" />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40"  />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40"  />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40"  />
 

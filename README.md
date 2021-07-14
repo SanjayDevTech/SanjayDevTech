@@ -8,7 +8,7 @@
 
 - 🤓 Currently pursuing BE CSE;
 - 🧑‍💻 Android && Web developer;
-- 👽 Love to develop in **Android** || **React** || **Node**;
+- 👽 Love to develop in **Android** || **React** || **Node.js**;
 - 📹 Youtuber [Sanjay Developer](https://www.youtube.com/c/SanjayDeveloper20);
 - 🤝 Maintaining few open source libraries;
 
@@ -43,6 +43,7 @@
 - Contributed in [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 - Participated in [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech)
 - Joined as a Mentor in [Mentors Without Borders](https://mentorswithoutborders.net)
+- Published few blog posts in [Medium](https://sanjaydevtech.medium.com)
 
 <br/>
 
@@ -53,6 +54,9 @@
 - [Android-Image-Cropper - Refactor BitmapUtils.java to Kotlin](https://github.com/CanHub/Android-Image-Cropper/pull/98)
 - [Android-Image-Cropper - Migrated Deprecated AsyncTask to Kotlin Coroutines](https://github.com/CanHub/Android-Image-Cropper/pull/25)
 - [CSwala-android - Implement Community feature](https://github.com/CSwala/CSwala-android/pull/149)
+- [Upcharika - Timer Enhancement](https://github.com/smaranjitghose/Upcharika/pull/37)
+- [First contribution](https://github.com/firstcontributions/first-contributions/pull/30213)
+- [Google IT automation Python](https://github.com/google/it-cert-automation-practice/pull/1372)
 
 <br/>
 
@@ -60,6 +64,8 @@
 
 ## 🏗️ **Projects:**
 
+- [Node.js Simple REST API](https://github.com/SanjayDevTech/nodejs-simple-rest-api)
+- [Android Multipage Sample](https://github.com/SanjayDevTech/android-multipage-sample)
 - [Fake json api server](https://github.com/SanjayDevTech/json-placeholder-server)
 - [Instagram post downloader](https://github.com/SanjayDevTech/instautils)
 - [HTML live editor](https://github.com/SanjayDevTech/HTML-editor)
@@ -67,6 +73,8 @@
 - [Simple Screen Recorder](https://github.com/SanjayDevTech/Screen-Recorder)
 - [Firebase chatting application](https://github.com/SanjayDevTech/fire-chat)
 - [Simple logging library](https://github.com/SanjayDevTech/simple-log)
+- [Udacity Android Developer - Capstone](https://github.com/SanjayDevTech/Capstone-Project)
+- [Tik Tac Toe Tkinter Python](https://github.com/SanjayDevTech/Tic-Tac-Toe-Tkinter)
 
 <br/>
 
@@ -79,10 +87,10 @@
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40"  />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40"  />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40"  />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40"  />
+<br />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="40" />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40"  />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40"  />
+   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="Flutter" width="40"  />
 
 </p>
 <br/>

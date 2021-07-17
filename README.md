@@ -37,6 +37,11 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🚩 **Achievements:**
 
 - Core team member at [DSC SREC](https://github.com/dsc-srec)

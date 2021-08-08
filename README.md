@@ -8,7 +8,7 @@
 
 - 🤓 Currently pursuing BE CSE;
 - 🧑‍💻 Android && Web developer;
-- 👽 Love to develop in **Android** || **React** || **Node.js**;
+- 👽 Love to develop in **Android** || **React** || **ML**;
 - 📹 Youtuber [Sanjay Developer](https://www.youtube.com/c/SanjayDeveloper20);
 - 🤝 Maintaining few open source libraries;
 
@@ -115,8 +115,8 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 ## 🚩 **Achievements:**
 
-- Core team member at [DSC SREC](https://github.com/dsc-srec)
-- Contributed in [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- GDSC Lead at [DSC SREC](https://github.com/dsc-srec)
+- Contributed in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com)
 - Participated in [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech)
 - Joined as a Mentor in [Mentors Without Borders](https://mentorswithoutborders.net)
 - Published few blog posts in [Medium](https://sanjaydevtech.medium.com)

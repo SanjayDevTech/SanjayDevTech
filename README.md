@@ -115,7 +115,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 ## 🚩 **Achievements:**
 
-- GDSC Lead at [DSC SREC](https://github.com/dsc-srec)
+- GDSC Lead at [GDSC SREC](https://github.com/gdscsrec)
 - Contributed in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com)
 - Participated in [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech)
 - Joined as a Mentor in [Mentors Without Borders](https://mentorswithoutborders.net)

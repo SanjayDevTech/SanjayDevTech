@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 953 Contributions in the Year 2021
+> 🏆 951 Contributions in the Year 2021
  > 
-> 📦 67.9 kB Used in GitHub's Storage 
+> 📦 65.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 63 Public Repositories 
  > 
-> 🔑 26 Private Repositories  
+> 🔑 25 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -103,7 +103,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
 ---

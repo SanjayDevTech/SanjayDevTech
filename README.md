@@ -93,17 +93,17 @@ No Activity Tracked This Week
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   23 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91% 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.43%
+Kotlin                   23 repos            ██████░░░░░░░░░░░░░░░░░░░   24.73% 
+JavaScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.66% 
+Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
+Dart                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 
 ```
 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 22/12/2021
 <!--END_SECTION:waka-->
 
 ---

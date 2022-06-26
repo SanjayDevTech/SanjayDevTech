@@ -7,9 +7,9 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
 
 - 🤓 Currently pursuing BE CSE;
+- 😎 Associate Android Developer;
 - 🧑‍💻 Android && Web developer;
-- 👽 Love to develop in **Android** || **React** || **ML**;
-- 📹 Youtuber [Sanjay Developer](https://www.youtube.com/c/SanjayDeveloper20);
+- 👽 Love to develop in (**Android**, **Flutter**, **ReactJs**, **ML**);
 - 🤝 Maintaining few open source libraries;
 
 <br/>
@@ -112,10 +112,10 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 ## 🚩 **Achievements:**
 
-- GDSC Lead at [GDSC SREC](https://github.com/gdscsrec)
+- Google Certified [Associate Android Developer](https://www.credential.net/0041bdc2-5489-499d-8a1d-a16da26bd8bf)
+- GDSC Lead'21 at [GDSC SREC](https://github.com/gdscsrec)
 - Contributed in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com)
 - Participated in [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech)
-- Joined as a Mentor in [Mentors Without Borders](https://mentorswithoutborders.net)
 - Published few blog posts in [Medium](https://sanjaydevtech.medium.com)
 
 <br/>
@@ -137,6 +137,7 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 ## 🏗️ **Projects:**
 
+- [Unofficial Pexels Library](https://github.com/SanjayDevTech/pexels-android)
 - [Node.js Simple REST API](https://github.com/SanjayDevTech/nodejs-simple-rest-api)
 - [Android Multipage Sample](https://github.com/SanjayDevTech/android-multipage-sample)
 - [Fake json api server](https://github.com/SanjayDevTech/json-placeholder-server)

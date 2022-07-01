@@ -38,7 +38,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -111,7 +111,7 @@ Java                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2022 02:57:03 UTC
+ Last Updated on 01/07/2022 18:45:04 UTC
 <!--END_SECTION:waka-->
 
 ---

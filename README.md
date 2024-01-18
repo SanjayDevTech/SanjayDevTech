@@ -11,7 +11,7 @@
 - 🧑‍💻 Ask me about anything related to Android, Web, Flutter;
 - 👽 Fun fact: I believe in destiny;
 - 🤝 Love to collaborate with other developers;
-- 📫 How to reach me: [sureshsanjay805@gmail.com](mailto:sureshsanjay805+github@gmail.com);
+- 📫 How to reach me: hello@sanjaydev.tech;
 
 ---
 

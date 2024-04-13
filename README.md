@@ -1,41 +1,29 @@
-# Hello!! 👋
+# Hello!! 👋 Welcome to my GitHub Profile
 
-<br/>
-<img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-<br/>
+I am **Sanjay**, you may know me if you found my GitHub profile.
+If you're not, I'll explain 😜.
+- I am a Human.
+- I write code for Android apps, Websites and sometimes GitHub Readmes.
+- I write blogs (Blog link below, please check)
+- I am a Content Creator in YouTube (YouTube link below, please check)
 
-## 🤘About Me
+<a href="https://www.buymeacoffee.com/SanjayDevTech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-- 🤓 Wanderer, Learner, and a Developer;
-- 😎 Google Certified Associate Android Developer;
-- 🧑‍💻 Ask me about anything related to Android, Web, Flutter;
-- 👽 Fun fact: I believe in destiny;
-- 🤝 Love to collaborate with other developers;
-- 📫 How to reach me: hello@sanjaydev.tech;
+## Connect with me
+- Email me: hello@sanjaydev.tech
+- Portfolio: https://sanjaydev.tech
+- Blog: https://sanjaydev.tech/blog
+- YouTube: https://www.youtube.com/@SanjayDevTech
+- Twitter: https://twitter.com/SanjayDevTech
+- LinkedIn: https://www.linkedin.com/in/sanjaydevtech
 
----
-
-## 💬Connect with me
-
-<a margin="8" title="Twitter" href="https://twitter.com/SanjayDevTech"><img src="icons/twitter.svg" alt="Twitter" width="32px" /></a>
-&nbsp;
-<a margin="8" title="LinkedIn" href="https://www.linkedin.com/in/sanjaydevtech"><img src="icons/linkedin.svg" alt="LinkedIn" width="32px" /></a>
-&nbsp;
-<a margin="8" title="Medium" href="https://sanjaydevtech.medium.com"><img src="icons/medium.svg" alt="Medium" width="32px" /></a>
-
----
 
 ## 👨‍🎓️️Dev Stats
 
-<div style="display: flex; flex-direction: row;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayDevTech&theme=gotham" alt="Streaks" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api?username=SanjayDevTech&theme=gotham&show_icons=true" alt="Top Langs" width="50%" />
-</div>
-&nbsp;
-<img src="https://activity-graph.herokuapp.com/graph?username=SanjayDevTech&theme=gotham" alt="Activity graph" />
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=SanjayDevTech&theme=gotham "Streaks")
+![Top Languages](https://github-readme-stats.vercel.app/api?username=SanjayDevTech&theme=gotham&show_icons=true "Top Languages")
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjayDevTech&theme=gotham "Activity Graph")
 
-
----
 
 ## 🚩Achievements
 - Smart India Hackathon Winner
@@ -45,12 +33,10 @@
 - Participated in [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech)
 - Published few blog posts in [Medium](https://sanjaydevtech.medium.com)
 
-<br/>
-
----
 
 ## 💙Contributions
 
+- [Added documentation for Install application from APK](https://github.com/nightwatchjs/mobile-helper-tool/pull/31)
 - [Android-Image-Cropper - Refactor BitmapUtils.java to Kotlin](https://github.com/CanHub/Android-Image-Cropper/pull/98)
 - [Android-Image-Cropper - Migrated Deprecated AsyncTask to Kotlin Coroutines](https://github.com/CanHub/Android-Image-Cropper/pull/25)
 - [CSwala-android - Implement Community feature](https://github.com/CSwala/CSwala-android/pull/149)
@@ -58,28 +44,15 @@
 - [First contribution](https://github.com/firstcontributions/first-contributions/pull/30213)
 - [Google IT automation Python](https://github.com/google/it-cert-automation-practice/pull/1372)
 
-<br/>
-
----
 
 ## 🏗️Projects
 
 - [Pexels Android Library](https://github.com/SanjayDevTech/pexels-android)
+- [Simple Screen Recorder](https://github.com/SanjayDevTech/Screen-Recorder)
+- [HTML live editor](https://github.com/SanjayDevTech/HTML-editor)
 - [Node.js Simple REST API](https://github.com/SanjayDevTech/nodejs-simple-rest-api)
 - [Android Multipage Sample](https://github.com/SanjayDevTech/android-multipage-sample)
-- [Fake json api server](https://github.com/SanjayDevTech/json-placeholder-server)
-- [Instagram post downloader](https://github.com/SanjayDevTech/instautils)
-- [HTML live editor](https://github.com/SanjayDevTech/HTML-editor)
-- [Youtube Video and Channel details scrapper](https://github.com/SanjayDevTech/ytutils)
-- [Simple Screen Recorder](https://github.com/SanjayDevTech/Screen-Recorder)
-- [Firebase chatting application](https://github.com/SanjayDevTech/fire-chat)
-- [Simple logging library](https://github.com/SanjayDevTech/simple-log)
-- [Udacity Android Developer - Capstone](https://github.com/SanjayDevTech/Capstone-Project)
-- [Tik Tac Toe Tkinter Python](https://github.com/SanjayDevTech/Tic-Tac-Toe-Tkinter)
 
-<br/>
-
----
 
 ## 🛠️Languages & Tools
 

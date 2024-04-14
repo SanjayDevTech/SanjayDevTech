@@ -1,7 +1,7 @@
 # Hello!! 👋 Welcome to my GitHub Profile
 
-I am **Sanjay**, you may know me if you found my GitHub profile.
-If you're not, I'll explain 😜.
+I am **Sanjay**, you probably want to know about me, if you found my GitHub profile.
+I'll explain 😜.
 - I am a Human.
 - I write code for Android apps, Websites and sometimes GitHub Readmes.
 - I write blogs (Blog link below, please check)

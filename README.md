@@ -20,7 +20,7 @@ I'll explain 😜.
 
 ## 👨‍🎓️️Dev Stats
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=SanjayDevTech&theme=gotham "Streaks")
+![GitHub Streak](https://github-readme-streak-stats-sanjaydevtech.vercel.app?user=SanjayDevTech&theme=gotham&date_format=j%20M%5B%20Y%5D)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=SanjayDevTech&theme=gotham&show_icons=true "Top Languages")
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjayDevTech&theme=gotham "Activity Graph")
 
